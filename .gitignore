@@ -1,4 +1,7 @@
 landmark_project/landmark_images.zip
 landmark_project/landmark_images
+landmark_project/model_transfer.pt
+landmark_project/model_scratch.pt
+landmark_project/model_scratch-TLOSS0.08VLOSS0.021.pt
 .ipynb_checkpoints
 .github/**
